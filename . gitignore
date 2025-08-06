@@ -1,0 +1,21 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+venv/
+.env
+*.env
+
+# IDE settings
+.vscode/
+.idea/
+
+# Cloud credentials (do NOT upload)
+firebase_key.json
+aws_credentials.json
+
+# Uploads or temp folders
+uploads/
+*.log
